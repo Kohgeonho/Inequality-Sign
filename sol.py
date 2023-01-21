@@ -16,6 +16,10 @@ minL = maxL = 1
 minA, maxB = 0, 9
 
 for o in O:
+    """
+    Count the length of each decreasing/increasing sequence.
+    When it stopped decreasing/increasing, apply min/max integer array for each sequence.
+    """
     if o == ">":
         maxS += "".join(map(str, range(maxB-maxL+1, maxB+1)))
         maxB -= maxL
