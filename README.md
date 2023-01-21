@@ -12,14 +12,14 @@
 
 - DFS (Back-Tracking)
 
-Algorithm of others who are highly ranked
+  Algorithm of others who are highly ranked
 
-Time Complexity: **O(V+E)** (V: 10)
+  Time Complexity: **O(V+E)** (V: 10)
 
 - Greedy
 
-My Algorithm
+  My Algorithm
 
-Count the length of each decreasing/increasing sequence, and apply max/min integer array for each seqeunce
+  Count the length of each decreasing/increasing sequence, and apply max/min integer array for each seqeunce
 
-Time complexity: **O(N)** (N: 10, total operations: 20)
+  Time complexity: **O(N)** (N: 10, total operations: 20)
