@@ -1,4 +1,4 @@
-# Prime-Discriminator
+# Inequality Sign
 ### Problem
 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="13pt"> [BaekJoon 2529 Inequality Sign](https://www.acmicpc.net/problem/2529)
 
